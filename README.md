@@ -1,5 +1,6 @@
 #Planned Future Content
 
+- More references, exercises and examples
 - Set Theory and Metric Spaces
 - More Analysis (calculus 2 content)
 - 138P Content
