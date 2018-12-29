@@ -1,29 +1,8 @@
-#Planned Future Content
+##Planned Future Content
 
-- More references, exercises and examples
-- Set Theory and Metric Spaces
-- More Analysis (calculus 2 content)
-- 138P Content
-- Calculus 3 extras (hessians, optimization, differential forms)
-- Differential Equations extras (Stuff from 251/351 that isnt in 250/228/364/365)
-- PDEs
-- Probability theory
-- Advanced statistics
-- Applied real analysis content
-- Lots of extra fourier analysis
-- Numerical methods
-- Extra complex analysis
-- Functional Analysis
-- Variational calculus
-- Abstract algebra
-- Advanced linear algebra topics
-- Topics in topology
-- Differential geometry
-- Lie theory
-- Convex optimization
-- Some combinatorics
+![](StuffYouMissed_Flowchart.png)
 
-#Excerpt from the introduction
+##Excerpt from the introduction
 
 This is meant to be a document teaching supplementary useful mathematics for non mathematical physics students (and those mathematical physics who did not take extra courses). 
 
